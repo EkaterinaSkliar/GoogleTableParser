@@ -1,1 +1,3 @@
-# GoogleTableParser
+## Парсер Google Таблиц  
+- **Задача:** Консолидация данных из 5+ таблиц с сортировкой и авто-сохранением  
+- **Стек:** Python 3.12, Google Sheets API, OAuth2Client
